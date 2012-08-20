@@ -1,4 +1,4 @@
-import httplib, time, sys, hmac
+import httplib, time, sys, hmac, os
 
 try:
     import json
